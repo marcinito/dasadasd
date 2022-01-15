@@ -1,3 +1,3 @@
 # demo2
 
-some text
+some text zmiany w galezio o nazwie nowa
